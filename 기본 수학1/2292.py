@@ -7,4 +7,3 @@ while True :
     num += count*6
     count += 1
 print(count)
-    
